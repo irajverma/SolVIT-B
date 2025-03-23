@@ -47,7 +47,7 @@ Mongoose: MongoDB object modelling tool for interacting with the database
 ## Setup Instructions:
 
 ```bash
-git clone https://github.com/PraveenUppar/VITB-IEEE-BLH09-CodeBlooded-Hackathon.git
+git clone https://github.com/PraveenUppar/Customer-Grid-SolVIT-Hackathon.git
 
 npm install
 
