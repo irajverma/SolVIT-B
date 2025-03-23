@@ -2,6 +2,8 @@
 
 #### Deployed Link: https://customer-grid.vercel.app/
 
+### GitHub Link: https://github.com/PraveenUppar/Customer-Grid.git
+
 Problem Domain: Customer Experience and Engagement.
 
 Project Title: Customer Grid
