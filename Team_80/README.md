@@ -2,7 +2,7 @@
 
 #### Deployed Link: https://customer-grid.vercel.app/
 
-#### GitHub Link: https://github.com/PraveenUppar/Customer-Grid.git
+#### GitHub Link: https://github.com/PraveenUppar/Customer-Grid-SolVIT-Hackathon.git
 
 Problem Domain: Customer Experience and Engagement.
 
