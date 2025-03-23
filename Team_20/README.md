@@ -133,15 +133,15 @@ This is used to **manage parking slots, user entries, and transaction verificati
 ## 📷 **Project Screenshots**  
 
 ### **Parko Features**
-![Parko Features](<WhatsApp Image 2025-03-23 at 16.54.54_5ddd3b5b.jpg>)
+![Parko Features](Images/5.png)
 
 
 ### **Mobile UI Screenshots**  
-![Mobile Dashboard](<WhatsApp Image 2025-03-23 at 16.54.55_a4dad45d.jpg>)
-![Mobile Payment](<WhatsApp Image 2025-03-23 at 16.54.56_7dfb6702.jpg>)
+![Mobile Dashboard](Images/6.png)
+![Mobile Payment](Images/7.png)
 
 ### **Parko**  
-![Parko](<WhatsApp Image 2025-03-23 at 16.54.56_0d03e171.jpg>)
+![Parko](Images/8.png)
 
 
 ---
