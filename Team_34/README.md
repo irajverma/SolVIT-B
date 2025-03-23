@@ -95,4 +95,4 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 
-For any queries or support, please reach out to [Your Contact Information] 
+For any queries or support, please reach out to shivam.24bce11208@vitbhopal.ac.in . 
